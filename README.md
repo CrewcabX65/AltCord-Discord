@@ -1,1 +1,40 @@
-# AltCord-Discord
+# AltCord v1.0.0.0
+
+![AltCord banner](assets/branding/AltCord-Banner.png)
+
+
+A Discord client mod with a plugin library, themes, and desktop updates.
+
+
+## Features
+
+-   Easy to install
+-   [100+ built in plugins](https://github.com/tdavis0236-max/Altcord/tree/main/src/plugins)
+-   Fairly lightweight despite the many inbuilt plugins
+-   Excellent Browser Support: Run AltCord in your Browser via extension or UserScript
+-   Works on any Discord branch: Stable, Canary or PTB all work
+-   Custom CSS and Themes: Inbuilt css editor with support to import any css files (including BetterDiscord themes)
+-   Privacy friendly: blocks Discord analytics & crash reporting out of the box and has no telemetry
+-   Maintained very actively, broken plugins are usually fixed within 12 hours
+-   Settings sync: Keep your plugins and their settings synchronised between devices / apps (optional)
+
+
+## Disclaimer
+
+Discord is trademark of Discord Inc. and solely mentioned for the sake of descriptivity.
+Mention of it does not imply any affiliation with or endorsement by Discord Inc.
+
+<details>
+<summary>Using AltCord violates Discord's terms of service</summary>
+
+Client modifications are against Discord’s Terms of Service.
+
+However, Discord is pretty indifferent about them and there are no known cases of users getting banned for using client mods! So you should generally be fine as long as you don’t use any plugins that implement abusive behaviour. But no worries, all inbuilt plugins are safe to use!
+
+Regardless, if your account is very important to you and it getting disabled would be a disaster for you, you should probably not use any client mods (not exclusive to AltCord), just to be safe
+
+Additionally, make sure not to post screenshots with AltCord in a server where you might get banned for it
+
+</details>
+
+AltCord is based on [Vencord](https://github.com/Vendicated/Vencord). Original authors and licenses are credited in the source.
