@@ -1,6 +1,6 @@
 # AltCord v1.0.0.0
 
-![AltCord banner](assets/branding/AltCord-Banner.png)
+![AltCord banner](AltCord-Banner.png)
 
 
 A Discord client mod with a plugin library, themes, and desktop updates.
