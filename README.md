@@ -9,7 +9,7 @@ A Discord client mod with a plugin library, themes, and desktop updates.
 ## Features
 
 -   Easy to install
--   [100+ built in plugins](https://github.com/tdavis0236-max/Altcord/tree/main/src/plugins)
+-   100+ built in plugins
 -   Fairly lightweight despite the many inbuilt plugins
 -   Excellent Browser Support: Run AltCord in your Browser via extension or UserScript
 -   Works on any Discord branch: Stable, Canary or PTB all work
